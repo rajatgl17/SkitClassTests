@@ -49,10 +49,9 @@ Once you have deactivated the test, no student can submit the test. The test lin
 1.	On the homepage of Admin Panel, click on ‘Marks’ in the ‘Action’ menu of the respective test.
 2.	Click on ‘Download Excel Sheet’ to download the excel sheet of the test marks of all students. 
 
+# For developers
 
-
-
-
-
-
+## Configuring
+1. In application/config/database.php enter database connectivity details.
+2. In application/config/constants.php change base_url to constant to abosulute path address.
 

@@ -56,3 +56,6 @@ Once you have deactivated the test, no student can submit the test. The test lin
 2. In application/config/constants.php change base_url to constant to abosulute path address.
 3. By default there is 1 marks for right answer and .25 negative marks for wrong answer. To change this, goto application/controllers/Home.php line no. 118.
 4. By default there is only one teacher user with username - demouser@skit.com and password - password. To have more users enter values in your database table - 'teachers'. Password are saved as md5 hashed value.
+
+
+Write to rajatgl17@gmail.com for any query or support.

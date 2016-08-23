@@ -14,6 +14,7 @@ switch (ENVIRONMENT) {
         define('BASE_URL', '');
         break;
 }
+define('ADMIN_ACCOUNT', 'demouser1@skit.com');
 /*
 |--------------------------------------------------------------------------
 | Display Debug backtrace

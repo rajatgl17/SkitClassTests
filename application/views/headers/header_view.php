@@ -15,6 +15,11 @@
             <i class="fa fa-user fa-fw"></i> <?php echo $this->session->userdata('username'); ?>  <i class="fa fa-caret-down"></i>
         </a>
         <ul class="dropdown-menu dropdown-user"> 
+            <?php if($this->session->userdata('email') ==  ADMIN_ACCOUNT){ ?>
+                <li>
+                    <a href="<?php echo BASE_URL; ?>admin/accounts/account_list"><i class="fa fa-wrench  fa-fw"></i> Accounts</a>
+                </li>
+            <?php }?>
             <li>
                 <a href="<?php echo BASE_URL; ?>admin/profile/change_password"><i class="fa fa-wrench  fa-fw"></i> Change Password</a>
             </li>

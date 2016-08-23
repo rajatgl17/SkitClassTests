@@ -22,7 +22,8 @@ class Auth_model extends CI_Model {
             $session_details = array(
                 'logged_in' => true,
                 'username' => $result->name,
-                'user_id' => $result->pk_teacher_id
+                'user_id' => $result->pk_teacher_id,
+                'email' => $result->email
             );
             $this->session->set_userdata($session_details);
             redirect(BASE_URL.'admin');

@@ -57,3 +57,15 @@ Once you have deactivated the test, no student can submit the test. The test lin
 
 
 Write to rajatgl17@gmail.com for any query or support.
+
+# Some screenshots
+![](/uncompressed/1.PNG?raw=true)<br><br>
+![](/uncompressed/2.PNG?raw=true)<br><br>
+![](/uncompressed/3.PNG?raw=true)<br><br>
+![](/uncompressed/4.PNG?raw=true)<br><br>
+![](/uncompressed/5.PNG?raw=true)<br><br>
+![](/uncompressed/6.PNG?raw=true)<br><br>
+![](/uncompressed/7.PNG?raw=true)<br><br>
+![](/uncompressed/8.PNG?raw=true)<br><br>
+![](/uncompressed/9.PNG?raw=true)<br><br>
+![](/uncompressed/10.PNG?raw=true)<br><br>

@@ -1,18 +1,16 @@
 # SKIT Class Tests - An online assessment portal
 
-Demo Link - http://ec2-52-209-170-83.eu-west-1.compute.amazonaws.com/skitclasstests/
-
 ##SKIT Class Tests
 There are two panels in this skitclasstests module:
 
 1.	Test Panel for students 
-Link: http://ec2-52-209-170-83.eu-west-1.compute.amazonaws.com/skitclasstests/
+Link: /skitclasstests/
 
 2.	Admin Panel for faculty members
- Link: http://ec2-52-209-170-83.eu-west-1.compute.amazonaws.com/skitclasstests/admin/
+ Link: /skitclasstests/admin/
 
 ##Admin Panel Overview
-1.	Go to http://ec2-52-209-170-83.eu-west-1.compute.amazonaws.com/skitclasstests/admin/ and enter your email address/username, password and text shown in captcha image.
+1.	Go to /skitclasstests/admin/ and enter your email address/username, password and text shown in captcha image.
 Login details: -  Username – demouser@skit.com
 		    Password – password
 
@@ -39,7 +37,7 @@ Then for each student, randomly 20 ques. will be fetched from the question bank.
 
 ##Conducting a Test
 1.	Change the status of the test to activated, by clicking on the ‘Activate’ option in the ‘Actions’ menu on your homepage for the test to be conducted. 
-2.	Ask students to go to Test Panel link: http://ec2-52-209-170-83.eu-west-1.compute.amazonaws.com/skitclasstests/admin/ and click on the appropriate test link. 
+2.	Ask students to go to Test Panel link: /skitclasstests/ and click on the appropriate test link. 
 3.	Students will have to enter their name, roll number and the key (that you have entered in the ‘Create New Test’ form) to begin the test.
 4.	When the time is over, asks students to submit the test.
 5.	After this again change the status of test to deactivated, by clicking on the ‘Deactivate’ option in the ‘Actions’ menu on your homepage for the test to be conducted.

@@ -1,4 +1,6 @@
 # SKIT Class Tests - An online assessment portal
+Developed for my college (SKIT, Jaipur) for conducting class tests.
+Link : http://skitclasstests.skit.ac.in
 
 ##SKIT Class Tests
 There are two panels in this skitclasstests module:
